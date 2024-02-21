@@ -1,3 +1,3 @@
 # weaterApp
 
-## This gets the weather!
+## This sorta gets the weather
